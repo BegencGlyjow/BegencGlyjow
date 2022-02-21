@@ -6,7 +6,8 @@
 ![Redux](https://img.shields.io/badge/Redux-Saga-0C5CC5?style=for-the-badge&logo=redux-saga&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDBA15?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-1271FF?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-Debian-010812?style=for-the-badge&logo=linux&logoColor=FFFFFF)
+![Linux](https://img.shields.io/badge/Linux-Debian-010812?style=for-the-badge&logo=linux&logoColor=AE7507)
+![MySQl](https://img.shields.io/badge/MySql-010812?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
