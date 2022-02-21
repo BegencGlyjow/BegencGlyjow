@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234121C5&size=16&lines=Welcome+to+BegDev+github+page.)](https://git.io/typing-svg)
 ## Skills and Tools
 ![Laravel](https://img.shields.io/badge/Laravel-C70000)
 ![React.js](https://img.shields.io/badge/React-1271FF)
