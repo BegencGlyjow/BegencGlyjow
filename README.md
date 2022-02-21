@@ -1,13 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234121C5&size=16&lines=Welcome+to+BegDev+github+page.)](https://git.io/typing-svg)
 ## Skills and Tools
-![Laravel](https://img.shields.io/badge/Laravel-010812?style=for-the-badge&logo=laravel&logoColor=FFFFFF)
-![React.js](https://img.shields.io/badge/React-010812?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![Laravel](https://img.shields.io/badge/Laravel-010812?style=for-the-badge&logo=laravel&logoColor=A60213)
+![React.js](https://img.shields.io/badge/React-010812?style=for-the-badge&logo=react&logoColor=0D88A6)
 ![Redux](https://img.shields.io/badge/Redux-010812?style=for-the-badge&logo=redux&logoColor=FFFFFF)
-![Redux](https://img.shields.io/badge/Redux-Saga-010812?style=for-the-badge&logo=redux-saga&logoColor=FFFFFF)
-![JavaScript](https://img.shields.io/badge/JavaScript-010812?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
-![TailwindCss](https://img.shields.io/badge/TailwindCss-010812?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
-![Linux](https://img.shields.io/badge/Linux-Debian-010812?style=for-the-badge&logo=linux&logoColor=AE7507)
-![MySQl](https://img.shields.io/badge/MySql-010812?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-010812?style=for-the-badge&logo=javascript&logoColor=AE7507)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-010812?style=for-the-badge&logo=tailwindcss&logoColor=0F9FC2)
+![Linux](https://img.shields.io/badge/Linux-010812?style=for-the-badge&logo=linux&logoColor=AE7507)
+![Debina](https://img.shields.io/badge/Debian-010812?style=for-the-badge&logo=debian&logoColor=C20209)
+![MySQl](https://img.shields.io/badge/MySql-010812?style=for-the-badge&logo=mysql&logoColor=AE7507)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
