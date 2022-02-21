@@ -1,11 +1,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234121C5&size=16&lines=Welcome+to+BegDev+github+page.)](https://git.io/typing-svg)
 ## Skills and Tools
-![Laravel](https://img.shields.io/badge/Laravel-C70000)
+![Laravel](https://img.shields.io/badge/Laravel-C70000?style=for-the-badge&logo=laravel)
 ![React.js](https://img.shields.io/badge/React-1271FF)
 ![Redux](https://img.shields.io/badge/Redux-C5198C)
 ![Redux](https://img.shields.io/badge/Redux-Saga-0C5CC5)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDBA15)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-1271FF)
+![Linux](https://img.shields.io/badge/Linux-Debian-010812)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
