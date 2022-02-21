@@ -8,6 +8,7 @@
 ![Linux](https://img.shields.io/badge/Linux-010812?style=for-the-badge&logo=linux&logoColor=AE7507)
 ![Debina](https://img.shields.io/badge/Debian-010812?style=for-the-badge&logo=debian&logoColor=C20209)
 ![MySQl](https://img.shields.io/badge/MySql-010812?style=for-the-badge&logo=mysql&logoColor=AE7507)
+![Github](https://img.shields.io/badge/Github-010812?style=for-the-badge&logo=github&logoColor=FFFFFF)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
