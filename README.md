@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## Skills and Tools
-![Laravel](https://img.shields.io/badge/Laravel-1A3800)
+![Laravel](https://img.shields.io/badge/Laravel-C70000)
+![React.js](https://img.shields.io/badge/Laravel-1A3800)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
