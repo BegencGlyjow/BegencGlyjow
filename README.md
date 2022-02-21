@@ -9,6 +9,10 @@
 ![Debina](https://img.shields.io/badge/Debian-010812?style=for-the-badge&logo=debian&logoColor=C20209)
 ![MySQl](https://img.shields.io/badge/MySql-010812?style=for-the-badge&logo=mysql&logoColor=AE7507)
 ![Github](https://img.shields.io/badge/Github-010812?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+## Follow Me
+[![Instagram](https://img.shields.io/badge/Instagram-010812?style=for-the-badge&logo=instagram&logoColor=A6126B)](https://www.instagram.com/BegencMuradovich)
+[![Instagram](https://img.shields.io/badge/Linkedin-010812?style=for-the-badge&logo=linkedin&logoColor=118CB0)](https://www.instagram.com/BegencMuradovich)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
