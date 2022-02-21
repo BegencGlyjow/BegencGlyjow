@@ -14,6 +14,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-010812?style=for-the-badge&logo=instagram&logoColor=A6126B)](https://www.instagram.com/BegencMuradovich)
 [![Instagram](https://img.shields.io/badge/Linkedin-010812?style=for-the-badge&logo=linkedin&logoColor=118CB0)](https://www.instagram.com/BegencMuradovich)
 [![Instagram](https://img.shields.io/badge/Telegram-010812?style=for-the-badge&logo=telegram&logoColor=118CB0)](https://www.telegram.com/BegencGlyjow)
+[![Instagram](https://img.shields.io/badge/Gmail-010812?style=for-the-badge&logo=gmail&logoColor=FA0000)](https://www.bekglycev@gmail.com)
+
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
