@@ -1,4 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%234121C5&size=16&lines=Welcome+to+BegDev+github+page.)](https://git.io/typing-svg)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BegDev)](https://github.com/anuraghazra/github-readme-stats)
 ## Skills and Tools
 ![Laravel](https://img.shields.io/badge/Laravel-010812?style=for-the-badge&logo=laravel&logoColor=A60213)
 ![React.js](https://img.shields.io/badge/React-010812?style=for-the-badge&logo=react&logoColor=0D88A6)
