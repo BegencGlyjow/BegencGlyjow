@@ -2,6 +2,7 @@
 ## Skills and Tools
 ![Laravel](https://img.shields.io/badge/Laravel-C70000)
 ![React.js](https://img.shields.io/badge/React-1271FF)
+![Redux](https://img.shields.io/badge/Redux-C5198C)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDBA15)
 ![TailwindCss](https://img.shields.io/badge/TailwindCss-1271FF)
 <!--
