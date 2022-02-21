@@ -3,6 +3,7 @@
 ![Laravel](https://img.shields.io/badge/Laravel-C70000)
 ![React.js](https://img.shields.io/badge/React-1271FF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-EDBA15)
+![TailwindCss](https://img.shields.io/badge/TailwindCss-1271FF)
 <!--
 **BegencGlyjow/BegencGlyjow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
